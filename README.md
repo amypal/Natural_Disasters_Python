@@ -17,3 +17,9 @@ Folder Contents
 
 Addtional work
 Tableau storyboard developed to highlight key findings - [Natural Disasters](https://public.tableau.com/app/profile/amy.palomino/viz/GlobaloccuranceofNaturalDisastersbetween1970and2021/NaturalDisasters)
+
+Data Sources
+
+- [Natural disasters data](https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis) 
+- [Shapefile](https://geojson-maps.ash.ms)         
+- [Temperature change data](https://www.fao.org/faostat/en/#data/ET) 
